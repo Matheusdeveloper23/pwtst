@@ -1,0 +1,33 @@
+* {
+    margin: 20;
+}
+
+body {
+    background-image: url(imagens/cyberpunlk.gif);
+    font-family: Arial;
+    background-size: cover;
+    margin: 120px;
+}
+
+.primeira {
+    width: 225px;
+    border: 1px solid #fff;
+    background: purple;
+    padding: 4px;
+    margin:  50px 100px 0 0;
+    font-size: 100px;
+}
+
+.segunda {
+    width: 155px;
+    border: 1px solid #fff;
+    background: cyan;
+    padding: 4px;
+    margin: 300px 200px 0 1300px ;
+    font-size: 100px;
+}
+
+span {
+    color: white;
+    margin-left: 10px;
+}
